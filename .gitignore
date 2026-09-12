@@ -1,0 +1,7 @@
+data/
+venv/
+*.mat
+*.zip
+*.fdt
+*.set
+__pycache__/

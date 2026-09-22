@@ -3,3 +3,6 @@ numpy
 matplotlib
 scikit-learn
 mne
+mne-qt-browser
+PySide6
+ipympl
